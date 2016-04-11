@@ -1,4 +1,4 @@
-http://i.imgur.com/I9C7mnF.jpg?&raw=1
+![Image](http://i.imgur.com/I9C7mnF.jpg?&raw=1)
 
 
 ## Rachel the Smith

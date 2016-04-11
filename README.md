@@ -62,7 +62,7 @@ You are already on my GitHub, take a look around!
   https://github.com/rachelsmithcode/backend_museum_passport.git
 
 
-### Tenatatious probelm-solver
+### Tenacious probelm-solver
 
 Sole Production Manager for one of the largest independent record labels in the UK.
 

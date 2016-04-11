@@ -35,11 +35,11 @@ From executive to project manager, security guard to project secretary I receive
 
   However due to the number of people involved without smooth communication relationships could break down with frightening speed. Reception worked closely with all teams enabling me to:
 
-  + focus on keeping this communication clear and healthy.
+  + Focus on keeping this communication clear and healthy.
 
-  + improve relationships by adjusting my tone and manner as required for the situation.
+  + Improve relationships by adjusting my tone and manner as required for the situation.
 
-  I believe this skill was one of those primarily responsible for my promotion to head of the reception team.
+I believe this skill was one of those primarily responsible for my promotion to head of the reception team.
 
 
 ### Enthusiastic learner

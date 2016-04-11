@@ -33,11 +33,11 @@ From executive to project manager, security guard to project secretary I receive
   Due to Level39's structure the reception team were employed by contractors working for Canary
   Wharf Group. This gave us the opportunity of working with the Level39 Management team to meet the day to day needs of scores of start up companies.
 
-  However due to the number of people involved without smooth communication relationships could break down with frightening speed. Reception was worked closely with all teams:
+  However due to the number of people involved without smooth communication relationships could break down with frightening speed. Reception worked closely with all teams enabling me to:
 
-  + I focused on keeping this communication clear and healthy.
+  + focus on keeping this communication clear and healthy.
 
-  + I adjusted my tone and manner as required for the situation.
+  + improve relationships by adjusting my tone and manner as required for the situation.
 
   I believe this skill was one of those primarily responsible for my promotion to head of the reception team.
 
@@ -50,7 +50,7 @@ Eager and able to learn new skill and technologies quickly.
 
 You are already on my GitHub, take a look around!
 
-- Projects of particular interest may be:
+Repositories of particular interest may be:
 
 | Project        | Summary          | Key technologies|
 | ------------- |:-------------:| -----:|

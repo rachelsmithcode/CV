@@ -2,7 +2,7 @@
 ## Rachel the Smith
 
 | rachelcodesmith@outlook.com |
-[Github](www.github.com/rachelsmithcode) | [LinkedIn](https://uk.linkedin.com/in/rachel-smith-1489a458) | [Twitter](@RachelCodeCraft) |
+[Github](https://github.com/rachelsmithcode) | [LinkedIn](https://uk.linkedin.com/in/rachel-smith-1489a458) | [Twitter](@RachelCodeCraft) |
 
 In code I discovered something that would feed two of my greatest passions, creating beautiful things and my delight in puzzles. To date I have found few things as satisfying as well written, readable code.
 
@@ -10,6 +10,7 @@ A voracious crafter, when someone has a good idea at the pub I'm the one that e-
 
 I am looking for a role with a company that will constantly challenge me to further my learning and push myself to achieve in a supportive team environment.
 
+Currently living in London, UK but open to traveling.
 
 ## Skills
 
@@ -51,15 +52,11 @@ You are already on my GitHub, take a look around!
 
 - Projects of particular interest may be:
 
-  - Nodeboard - using express and node JS for lab week, a free choice week. Chosen because full stack js sounded cool, it is. This project also allowed practice creating restful APIs and used of Mongo DB, TDD driven, (as is the Makers way).
-  https://github.com/rachelsmithcode/nodeboard.git
-
-  - OctoSearch - Working with external APIs, namely GitHub's to allow a comprehensive user search with an awfully pretty front end.
-  https://github.com/rachelsmithcode/octo-search.git
-
-  - Museum Passport - Makers Academy final project, composed of two separate repos, front end used Ionic, (because we figured, what the hey lets learn one more new technology for the road) and the back end, restful API was made in rails
-  https://github.com/rachelsmithcode/frontend_museum_passport.git
-  https://github.com/rachelsmithcode/backend_museum_passport.git
+| Project        | Summary          | Key technologies|
+| ------------- |:-------------:| -----:|
+| [Museum Passport](https://github.com/rachelsmithcode/frontend_museum_passport.git)      | An application to help engage children in museum exhibits | Ruby on Rails backend RESTful API serving JSON and Ionic front end to allow for deployment on iOs and Android. Tested with Rspec, Karma and Protractor |
+| [Octosearch](https://github.com/rachelsmithcode/octo-search.git)      | An Angular single page app consuming the Github API and serving a clean interface for searching for Github users       |   Angular JS, tested with Karma and protractor |
+| [Nodeboard](https://github.com/rachelsmithcode/nodeboard.git) | RESTful API for a basic to-do app | MEAN stack - Node JS, Express JS and MongoDB, tested with Mocha and Chai |
 
 
 ### Tenacious problem-solver
